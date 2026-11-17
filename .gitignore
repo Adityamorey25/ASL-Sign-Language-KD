@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.zip
+archive/
+Datasets/
+*.pdf
+*.doc
+*.docx
+teacher_best_aug.pth
+.ipynb_checkpoints/
